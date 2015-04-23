@@ -1,6 +1,3 @@
-Unzip and import the package into your Android IDE. 
-You need to modify and update the infomation based on what your credentials are when setting up Bluemix, so:
-	- in MainActivity.java, in PostClientControlLed method you need to update your device name/id and access token from Spark
-	- sparkled.properties needs to be updated with information from Bluemix's Node-Red app that you've created and attached 
-		to it the Mobile Application Security which means collect info from Mobile options on the right side from your app's
-		link on your Dashboard.
+Download the app from Google Play Store at https://play.google.com/store/apps/details?id=com.hovigandroid.bluemixsparkledapp. After that you put your credentials from Bluemix (www.Bluemix.net) and Spark Core (www.Spark.io). You have the choice to create a user name and Android device or else the app will generate them for by default which they will appear in your Bluemix app in the Push service. 
+
+After entering the credentials, your app will be ready for use. Double check your Bluemix and Spark Core setups to make sure that the communication is in place.

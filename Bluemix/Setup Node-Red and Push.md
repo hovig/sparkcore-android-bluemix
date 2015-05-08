@@ -1,5 +1,5 @@
 #Create Node Red package from Boilerplates list of Bluemix IBM and click on the link of your application and 
- then click on red button that says "Go to your Node-RED flow editor".
+#then click on red button that says "Go to your Node-RED flow editor".
  
 #Click menu on the up right side of the screen and choose import and copy/paste the code from NodeRed.text.
 

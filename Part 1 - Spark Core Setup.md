@@ -11,6 +11,7 @@ In order for you to connect your Spark Core to the WiFi network, there are 2 way
 
 1) you can download Spark Core app, sign in, type SSID and password to connect to the WiFi, then it will find 
    your device. Name it or keep what by default is named.
+   
 2) you can use putty.exe for Windows (download it from putty.org) and choose Serial radio button and make sure 
    to write the correct COM port and click OK.
    
